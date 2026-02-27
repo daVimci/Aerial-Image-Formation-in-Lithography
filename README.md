@@ -8,4 +8,8 @@ https://rafael-fuente.github.io/solving-the-diffraction-integral-with-the-fast-f
 
 <img src="./images/111.png" alt="Image1" style="zoom:80%;" />
 
-<img src="./images/222.png" alt="Image1" style="zoom:80%;" />
+<img src="./images/diffraction.png" alt="Image1" style="zoom:80%;" />
+
+
+
+<img src="./images/aerial.png" alt="Image1" style="zoom:80%;" />

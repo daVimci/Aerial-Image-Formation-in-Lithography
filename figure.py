@@ -22,7 +22,7 @@ def draw_mask(
     plt.ylim([-Ly * scale_y, Ly * scale_y])
     # plt.colorbar()
     # ===== Plot the mask =====
-
+    plt.savefig('mask.png')
     plt.show()
 
 
@@ -65,7 +65,7 @@ def draw_diffraction_pattern(
     plt.ylim([y_screen[0] * scale_y, y_screen[-1] * scale_y])
     plt.title("Diffraction Pattern")
     # ===== Plot the diffraction pattern =====
-
+    plt.savefig('diffraction.png')
     plt.show()
 
 
@@ -94,5 +94,6 @@ def draw_aerial_image(
     # ax2.set_ylabel("Probability Density $|\psi|^{2}$")
     # ax1.set_xlim([-2, 2])
     # plt.setp(ax1.get_xticklabels(), visible=False)
-
+    
+    plt.savefig('aerial.png')
     plt.show()
